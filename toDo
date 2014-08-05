@@ -1,0 +1,6 @@
+- Implement remaining instructions
+- Add IO, connections to external data ports
+- Add an address stack
+- Add Branch Prediction
+
+- Properly split and sychronize processor and Swing threads
