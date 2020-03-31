@@ -15,6 +15,5 @@ instructions are available at present and how they are encoded
 
 
 System Screen shot: 
+![X-Ray of COVID-19 Positive patient](covid-19.JPG)
 
-
-![CPU Front end Design](system_screen_shot.jpg)
