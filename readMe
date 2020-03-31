@@ -12,3 +12,9 @@ how the processor works
 sim/Instruction.java
 This class defines the processor instructions. Take a look at theis to see what
 instructions are available at present and how they are encoded
+
+
+System Screen shot: 
+
+
+![CPU Front end Design](system_screen_shot.jpg)
